@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets & archives
+*.zip
+data/
+Data-raw/
+Data-processed/
+PlantVillage-Dataset/
+
+# Documents
+*.pdf
+*.docx
+*.pptx
+
+# Images (non-UI)
+*.jpeg
+*.jpg
+*.png
+
+# OS / tools
+.DS_Store
+Thumbs.db
+
+# Trained ML/DL models
+models/
+models2/
+*.pkl
+*.pth
